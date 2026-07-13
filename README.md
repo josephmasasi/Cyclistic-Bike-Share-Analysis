@@ -1,11 +1,11 @@
-# 🚴 Cyclistic Bike-Share Analysis
+#  Cyclistic Bike-Share Analysis
 ### Google Data Analytics Professional Certificate Capstone Project
 
 > **A complete end-to-end data analytics project using PostgreSQL, SQL, Tableau, and GitHub to analyze rider behavior and provide business recommendations for increasing annual memberships.**
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project was completed as the capstone project for the **Google Data Analytics Professional Certificate**.
 
@@ -13,16 +13,16 @@ Cyclistic, a bike-share company, wants to increase the number of annual membersh
 
 This project follows Google's six-step Data Analytics process:
 
-- ✅ Ask
-- ✅ Prepare
-- ✅ Process
-- ✅ Analyze
-- ✅ Share
-- ✅ Act
+-  Ask
+-  Prepare
+-  Process
+-  Analyze
+-  Share
+-  Act
 
 ---
 
-## 🎯 Business Task
+##  Business Task
 
 **Business Question**
 
@@ -32,7 +32,7 @@ The findings from this analysis are intended to support Cyclistic's marketing te
 
 ---
 
-## 👥 Stakeholders
+##  Stakeholders
 
 - Cyclistic Executive Team
 - Marketing Director
@@ -40,7 +40,7 @@ The findings from this analysis are intended to support Cyclistic's marketing te
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 | Item | Details |
 |------|---------|
@@ -55,7 +55,7 @@ Additional dataset documentation is available in the **data/** folder.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -67,7 +67,7 @@ Additional dataset documentation is available in the **data/** folder.
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Cyclistic-Bike-Share-Analysis/
@@ -110,7 +110,7 @@ Cyclistic-Bike-Share-Analysis/
 
 ---
 
-# 🧹 Data Preparation
+#  Data Preparation
 
 The dataset was prepared using PostgreSQL and SQL through the following steps:
 
@@ -128,7 +128,7 @@ The cleaned dataset was then used for SQL analysis and Tableau visualization.
 
 ---
 
-# 🔍 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 The following analyses were conducted:
 
@@ -140,23 +140,11 @@ The following analyses were conducted:
 
 The SQL scripts used for these analyses are available in the **sql/** directory.
 
----
 
-# 📊 Dashboard Preview
 
-## Executive Dashboard
+#  Key Findings
 
-> *(Replace the path below if your image filename changes.)*
-
-```markdown
-![Cyclistic Dashboard](dashboard/dashboard_preview_1.png)
-```
-
----
-
-# 📈 Key Findings
-
-### 🚲 Rider Distribution
+###  Rider Distribution
 
 Annual members completed significantly more rides than casual riders.
 
@@ -165,7 +153,7 @@ Annual members completed significantly more rides than casual riders.
 
 ---
 
-### ⏱ Ride Duration
+###  Ride Duration
 
 Casual riders spend considerably longer on each ride.
 
@@ -176,26 +164,26 @@ Casual riders spend considerably longer on each ride.
 
 ---
 
-### 📅 Weekly Trends
+###  Weekly Trends
 
 - Members ride consistently throughout the week.
 - Casual riders show noticeably higher activity during weekends.
 
 ---
 
-### 🌞 Monthly Trends
+###  Monthly Trends
 
 Bike usage increases significantly during warmer months, particularly during summer.
 
 ---
 
-### 🚴 Bike Preference
+###  Bike Preference
 
 Docked bikes remain the most frequently used bike type among both rider categories.
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -207,22 +195,22 @@ Based on the analysis, the following recommendations are proposed:
 
 ---
 
-# 📁 Project Deliverables
+#  Project Deliverables
 
 This repository includes:
 
-- ✅ SQL Scripts
-- ✅ PostgreSQL Database Workflow
-- ✅ Tableau Dashboard
-- ✅ Dashboard PDF
-- ✅ Dashboard Images
-- ✅ Executive Report (PDF)
-- ✅ Business Presentation (PowerPoint)
-- ✅ Dataset Documentation
+-  SQL Scripts
+-  PostgreSQL Database Workflow
+-  Tableau Dashboard
+-  Dashboard PDF
+-  Dashboard Images
+-  Executive Report (PDF)
+-  Business Presentation (PowerPoint)
+-  Dataset Documentation
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Potential future enhancements include:
 
@@ -234,7 +222,7 @@ Potential future enhancements include:
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 Throughout this project, I demonstrated practical experience in:
 
@@ -253,7 +241,7 @@ Throughout this project, I demonstrated practical experience in:
 
 ---
 
-# 📸 Additional Visualizations
+#  Additional Visualizations
 
 The **images/** folder contains individual visualizations used throughout the project, including:
 
@@ -265,7 +253,7 @@ The **images/** folder contains individual visualizations used throughout the pr
 
 ---
 
-# 👤 Author
+#  Author
 
 **Joseph Cletus Masasi**
 
@@ -278,10 +266,10 @@ Google Data Analytics Professional Certificate
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## ⭐ If you found this project useful, feel free to star the repository.
+##  If you found this project useful, feel free to star the repository.
