@@ -1,5 +1,4 @@
 /*
-===========================================================
 Cyclistic Bike-Share Analysis
 File: 02_import_data.sql
 
@@ -8,12 +7,11 @@ Document the process used to import the Cyclistic
 bike-share datasets into PostgreSQL.
 
 Author: Joseph Cletus
-===========================================================
 */
 
--- =========================================================
+
 -- DATA IMPORT PROCESS
--- =========================================================
+
 
 /*
 1. Created a PostgreSQL database named 'cyclistic'.

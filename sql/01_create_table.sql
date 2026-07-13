@@ -1,5 +1,5 @@
 /*
-===========================================================
+
 Cyclistic Bike-Share Analysis
 File: 01_create_table.sql
 
@@ -8,7 +8,6 @@ Create the main table used to store Cyclistic bike trip
 records before data cleaning and feature engineering.
 
 Author: Joseph Cletus
-===========================================================
 */
 
 CREATE TABLE IF NOT EXISTS public.trips_clean

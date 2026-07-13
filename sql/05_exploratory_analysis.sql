@@ -1,12 +1,10 @@
 /*
-
 Cyclistic Bike-Share Analysis
 
 File: 05_exploratory_analysis.sql
 
 Purpose:
 Answer business questions using SQL.
-
 */
 
 

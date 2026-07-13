@@ -1,12 +1,10 @@
 /*
-
 Cyclistic Bike-Share Analysis
 
 File: 06_views_for_tableau.sql
 
 Purpose:
 Create reusable SQL views for Tableau dashboards.
-
 */
 
 

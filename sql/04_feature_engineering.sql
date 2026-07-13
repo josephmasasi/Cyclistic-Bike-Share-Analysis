@@ -1,5 +1,4 @@
 /*
-
 Cyclistic Bike-Share Analysis
 Google Data Analytics Professional Certificate
 
@@ -10,7 +9,6 @@ Author: Joseph Cletus
 Purpose:
 Create new variables that will support analysis and
 visualization.
-
 */
 
 
@@ -47,7 +45,6 @@ SET month = EXTRACT(MONTH FROM started_at);
 
 
 /*
-
 FEATURE ENGINEERING SUMMARY
 
 Created Features
@@ -58,5 +55,4 @@ Created Features
 
 These features were used throughout the exploratory
 analysis and Tableau dashboard.
-
 */

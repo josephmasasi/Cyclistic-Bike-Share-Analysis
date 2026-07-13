@@ -1,5 +1,4 @@
 /*
-
 Cyclistic Bike-Share Analysis
 Google Data Analytics Professional Certificate
 
@@ -10,7 +9,6 @@ Author: Joseph Cletus
 Purpose:
 Assess data quality by checking dataset size,
 duplicate records, missing values and ride durations.
-
 */
 
 1. Verify total number of records
@@ -25,7 +23,6 @@ FROM trips_clean;
 
 
 -- 2. Check for duplicate Ride IDs
-
 
 SELECT
     ride_id,
